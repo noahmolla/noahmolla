@@ -1,4 +1,9 @@
-## Hi there 👋
+## About Me
+
+- 👋 My name is Noah Molla.
+- 🎓 Graduating with a BS in Computer Engineering @SDSU December 2025
+- 🧠 I am interested in Embedded Systems, IoT, FPGAs, and Accelerated Computing.
+- 💼 Actively seeking Summer 2025 internship within the field
 
 <!--
 **noahmolla/noahmolla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
